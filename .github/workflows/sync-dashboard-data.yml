@@ -8,8 +8,7 @@ on:
     paths:
       - 'outputs/csv/**'
       - 'outputs/parquet/**'
-      - 'outputs/geojson/**'
-
+    
 jobs:
   sync-dashboard-data:
     runs-on: ubuntu-latest
@@ -29,8 +28,7 @@ jobs:
         run: |
           mkdir -p dashboard/public/data/csv
           mkdir -p dashboard/public/data/parquet
-          mkdir -p dashboard/public/data/geojson
-
+     
           rsync -av --delete \
             outputs/csv/ \
             dashboard/public/data/csv/
@@ -39,17 +37,13 @@ jobs:
             outputs/parquet/ \
             dashboard/public/data/parquet/
 
-          rsync -av --delete \
-            outputs/geojson/ \
-            dashboard/public/data/geojson/
-
       - name: Commit dashboard data
         working-directory: dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add public/data/csv public/data/parquet public/data/geojson
+          git add public/data/csv public/data/parquet
 
           if git diff --cached --quiet; then
             echo "No data changes to publish."
