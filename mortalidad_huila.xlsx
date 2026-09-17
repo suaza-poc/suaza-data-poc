@@ -1,0 +1,1761 @@
+<!DOCTYPE html>
+<html lang="es">
+<head prefix="og: http://ogp.me/ns# ">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Descargas</title>
+<meta name="author" content="Gobernación del Huila" />
+<meta name="language" content="spanish" />
+<meta property="og:locale" content="es_la" />
+<meta property="og:locale:alternate" content="es_es" />
+<meta property="og:site_name" content="Gobernación del Huila" />
+<meta name="keywords" content="tramites en linea, sede electrónica, solicitudes en línea, Certificado, trámite, ayuda, sede, electrónica, Gobernación, Alcaldía, linea, solicitud, licencia, salud, impuestos, trámites en línea, registrarse, ingresar, temas de interés, trámites por secretaría, trámites destacados, renovación de la habilitación, impuestos sobre vehículos, impuestos para carros, asesoría virtual, asesorías, listado de trámites, Cómo podemos ayudar, planeación, educación, hacienda, infraestructura, administrativo, desarrollo agropecuario, desarrollo social, desarrollo económico, gobierno, deporte, recreación, cultura, catálogo de trámites, sobre la sede, políticas de la sede, pqrs, peticiones, quejas, reclamos, mapa de la sede, menú principal, conceptos, construcción de obras, otros trámites, Citas, Pasaportes Huila" />
+<meta name="description" content="Bienvenido a la Sede Electrónica de la Gobernación del Huila, el portal oficial donde puedes realizar tus trámites y servicios en línea de forma ágil y segura. Gestiona PQR, agenda citas, descarga certificados y accede a pagos en línea, impuesto vehicular, pasaportes y demás trámites desde cualquier dispositivo, sin filas y sin desplazamientos." />
+<meta property="og:title" content="Sede Electrónica del Departamento del Huila" />
+<meta property="og:description" content="Bienvenido a la Sede Electrónica de la Gobernación del Huila, el portal oficial donde puedes realizar tus trámites y servicios en línea de forma ágil y segura. Gestiona PQR, agenda citas, descarga certificados y accede a pagos en línea, impuesto vehicular, pasaportes y demás trámites desde cualquier dispositivo, sin filas y sin desplazamientos." />
+<meta property="og:url" content="www.huila.gov.co" />
+<meta property="og:type" content="website" />
+<meta name="twitter:title" content="Sede Electrónica del Departamento del Huila" />
+<meta name="twitter:description" content="Bienvenido a la Sede Electrónica de la Gobernación del Huila, el portal oficial donde puedes realizar tus trámites y servicios en línea de forma ágil y segura. Gestiona PQR, agenda citas, descarga certificados y accede a pagos en línea, impuesto vehicular, pasaportes y demás trámites desde cualquier dispositivo, sin filas y sin desplazamientos." />
+<meta name="twitter:url" content="www.huila.gov.co" />
+<meta name="twitter:card" content="summary_large_image" />
+<link href="www.huila.gov.co" rel="canonical" />
+<meta name="Robots" content="index,follow" />
+<meta name="status" content="www.huila.gov.co" />
+<link rel="shortcut icon" href="https://www.huila.gov.co/info/huila_bco/web/portal/img/favicon.png" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M2DK3HX');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2DK3HX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><link href="https://www.huila.gov.co/media/plugins/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+<link href="https://www.huila.gov.co/media/plugins/fontawesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/media/plugins/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/media/plugins/slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/media/plugins/slick/1.6.0/slick-theme.css" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/media/plugins/calendar/jquery-timepicker/1.4.4/jquery-ui-timepicker-addon.min.css" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueCookie.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueFooter.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueDynamic.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/animate.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/editableBlock.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueTabs2.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueAccesibilidad.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueInformacionUsuario.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueHeader.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/mod/Bloques/css/bloqueMegamenu.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/media/css/user.govco.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+<link href="https://www.huila.gov.co/info/huila_bco/web/portal/css/user.min.css?nxcache=1765466292" rel="stylesheet" type="text/css" />
+
+<script  src="https://www.huila.gov.co/media/plugins/jquery/3.1.0/jquery.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/language/default/language.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/jqueryValidate/1.12.0/dist/jquery.validate.min.js"></script>
+
+<style>
+        :root { --nombre-entidad: "Gobernación de Huila";--bg-image-footer: url("../../../media/galeria16064.png");--bg-image-gray-right: url("../../../media/galeria16062.png");--bg-image-gray-left: url("../../../media/galeria16061.png");--bg-image-bottom: url("../../../media/galeria16060.png");--bg-photo-green: url("../../../media/galeria16063.jpg");--bg-image-pub-especial: url("../../../media/galeria16065.png");--alto-logo-header: 68px;--alto-logo-footer: 100px;--bg-texture-colors: url("https://www.huila.gov.co/info/huila_bco/media/galeria16102.png");}
+        </style></head>
+<body class="SearchResults dModTools2 SearchResults">
+<script>
+    $("body").addClass("dInterno dInternoAmplio")
+</script>
+<header>
+	<!-- inicio cache zona#1 (2026/09/15 09:08:10) -->
+<div class="tabla1 tablaBloque12038  "
+    >
+    
+    <div class="contenido1">
+        <style>
+  .visually-hidden:not(:focus):not(:focus-within) {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+  }
+  #Skip-content:focus,
+  #Skip-content:focus-visible {
+    display: block;
+    height: auto;
+    width: auto;
+    background-color: black;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 1000;
+    font-size: 1rem;
+    color: white;
+    overflow: unset;
+    opacity: 1;
+    clip: unset;
+    border-radius: 5px !important;
+    padding: 5px 1rem;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+</style>
+<div class="visually-hidden">
+  <a href="#infoPrincipal" id="Skip-content"> Saltar al contenido principal </a>
+</div>
+    </div>
+</div><div class="nxBlock nxBlock12599 nxBlockDesign1 nxBlockConfigTools
+ tools-config"
+     >
+    
+    <div class="defaultConfigTools blockContent">
+        
+    
+    <div id="menu_guia" class="collapse">
+        <div class="container">
+            <div class="row">
+                <div  class="col-sm-6 col-md-6 contentTools"  >
+                    <div class="contentBtnConfigTools">
+                        <button type="button" class="btn btn-default btnConfigTools" data-type="configTools"
+                                data-typedes="default">Configuraci&oacute;n por defecto</button>
+                        <button type="button" class="btn btn-default btnConfigTools" data-type="configTools"
+                                data-typedes="highContrast">Alto contraste</button>
+                        <button type="button" class="btn btn-default btnConfigTools" data-type="configTools"
+                                data-typedes="textOnly">Solo texto</button>
+                    </div>
+
+                    <div class="contentIconConfigFont">
+                        <a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente menor"
+                           data-type="configFont" data-typedes="lg">
+                            <span class="hide">Tama&ntilde;o de fuente menor</span>
+                            <span class="fa fa-font fa-lg" aria-hidden="true"></span>
+                        </a>
+                        <a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente predeterminado"
+                           data-type="configFont" data-typedes="2x">
+                            <span class="hide">Tama&ntilde;o de fuente predeterminado</span>
+                            <span class="fa fa-font fa-2x" aria-hidden="true"></span>
+                        </a>
+                        <a href="#" class="btnConfigTools" title="Habilitar tama&ntilde;o de fuente menor"
+                           data-type="configFont" data-typedes="3x">
+                            <span class="hide">Tama&amp;ntildeo de fuente mayor</span>
+                            <span class="fa fa-font fa-3x" aria-hidden="true"></span>
+                        </a>
+                    </div>
+                </div>
+
+                                    <div class="col-sm-4 col-md-4 contentConfig">
+                        
+                                                    <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button"
+                                        data-toggle="dropdown">Idiomas
+                                    <span class="caret"></span></button>
+                                <ul class="dropdown-menu">
+                                                                                                                        <li>
+                                                <a href="https://www.huila.gov.co/loader.php?lServicio=Tools2&amp;lTipo=idioma&amp;idioma=ES">Espa&ntilde;ol</a>
+                                            </li>
+                                                                                                                                                                <li>
+                                                <a href="https://www.huila.gov.co/loader.php?lServicio=Tools2&amp;lTipo=idioma&amp;idioma=EN">Ingl&eacute;s</a>
+                                            </li>
+                                                                                                            </ul>
+                            </div>
+                                            </div>
+                
+            </div>
+        </div>
+    </div>
+
+            <script>
+            let interval;
+
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'es',autoDisplay: false}, 'google_translate_element');
+
+                window.onunload = function () {
+                    killDobleTranslateCookie();
+                };
+
+                if (document.readyState === "complete") {
+                    interval = setInterval(killDobleTranslateCookie, 1000);
+                } else {
+                    window.addEventListener("load", function () {
+                        interval = setInterval(killDobleTranslateCookie, 1000);
+                    },false);
+                }
+            }
+
+            function killDobleTranslateCookie() {
+                clearInterval(interval);
+
+                var cookies = document.cookie;
+                let cookieGoogtrans = cookies.match(/googtrans=(.*?)(;|$)/g);
+                //se valida si hay dos cookies de googtrans
+                if (!cookieGoogtrans || cookieGoogtrans.length <= 1) {
+                    // Se valida si hay una cookie de googtrans
+                    if (cookieGoogtrans && cookieGoogtrans.length === 1) {
+                        // Se obtiene el valor actual de una de las cookies googtrans
+                        let cookieValue = encodeURIComponent(decodeURIComponent(cookieGoogtrans[0].split('=')[1].split(';')[0]));
+                        // Se actualiza la cookie con el valor cookieValue y se agrega atributos secure y sameSite
+                        document.cookie = "googtrans=" + cookieValue + "; secure; samesite=None";
+                    }
+                    return;
+                }
+                //se toma la url actual y se valida que no termina en
+                //por ejemplo gov.co
+                var href = window.location.hostname.split(".");
+                if (href.length >= 2 && href[0] !== "www") {
+                    for (var ref = href; 2 < ref.length;)
+                        ref.shift();
+                    ref = ref.join(".");
+
+                    /*
+                    Se comenta esta línea dado que para dominios como gov.co no elimina las cookies duplicadas
+                    if (/([a-z]{3})\.([a-z]{2})$/.test(ref)) return;
+                     */
+
+                    // Se obtiene el valor actual de una de las cookies googtrans
+                    let cookieValue = encodeURIComponent(decodeURIComponent(cookieGoogtrans[0].split('=')[1].split(';')[0]));
+                    // Se elimina una de las cookies duplicadas
+                    document.cookie = "googtrans=; path=/; domain=" + ref + "; expires=Thu, 01 Jan 1970 00:00:01 GMT;";
+                    // Se elimina cookie duplicada en sitios diferentes del index
+                    let pathname = window.location.pathname;
+                    pathname = (pathname.charAt(pathname.length - 1) === '/') ? pathname.slice(0, -1) : pathname;
+                    if (pathname !== '') {
+                        document.cookie = "googtrans=; path=" + pathname + "; expires=Thu, 01 Jan 1970 00:00:01 GMT;";
+                    }
+                    // Se actualiza la cookie con el valor cookieValue y se agrega atributos secure y sameSite
+                    document.cookie = "googtrans=" + cookieValue + "; path=/; secure; samesite=None";
+                }
+            }
+        </script>
+        <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+    <script>
+        function switchConfigTools(typeDesc) {
+            var body = $("body");
+            body.removeClass("configDefaultTools configHighContrastTools configTextOnlyTools");
+            $('[data-type="configTools"]').removeClass("active");
+
+            switch (typeDesc) {
+                case 'default':
+                    $('[data-typedes="default"]').addClass("active");
+                    body.addClass("configDefaultTools");
+                    break;
+                case 'highContrast':
+                    $('[data-typedes="highContrast"]').addClass("active");
+                    body.addClass("configHighContrastTools");
+                    break;
+                case 'textOnly':
+                    $('[data-typedes="textOnly"]').addClass("active");
+                    body.addClass("configTextOnlyTools");
+                    break;
+            }
+        }
+
+        function switchConfigFont(typeDesc) {
+            var body = $("body");
+            body.removeClass("faFontLg faFont2x faFont3x");
+            $('[data-type="configFont"]').removeClass("active");
+
+            switch (typeDesc) {
+                case 'lg':
+                    $('[data-typedes="lg"]').addClass("active");
+                    body.addClass("faFontLg");
+                    break;
+                case '2x':
+                    $('[data-typedes="2x"]').addClass("active");
+                    body.addClass("faFont2x");
+                    break;
+                case '3x':
+                    $('[data-typedes="3x"]').addClass("active");
+                    body.addClass("faFont3x");
+                    break;
+            }
+        }
+
+        $(".btnConfigTools").click(function (e) {
+            e.preventDefault();
+            var type = $(this).data("type");
+            var typeDesc = $(this).data("typedes");
+            console.log(type + " " + typeDesc);
+            document.cookie = type + "=" + typeDesc + "; path=/";
+
+            if (type === "configTools") {
+                switchConfigTools(typeDesc);
+            }
+
+            if (type === "configFont") {
+                switchConfigFont(typeDesc);
+            }
+
+        });
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) === ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+        $(document).ready(function () {
+            var cookieConfigTools = readCookie('configTools');
+            var cookieConfigFont = readCookie('configFont');
+
+            if (readCookie('configTools')) {
+                switchConfigTools(cookieConfigTools);
+            }
+
+            if (readCookie('configFont')) {
+                switchConfigFont(cookieConfigFont);
+            }
+        });
+    </script>
+
+    </div>
+</div>
+<div class="tabla1 tablaBloque11753 sr-only "
+    >
+    
+    <div class="contenido1">
+        <h1>Gobernaci&oacute;n del Huila</h1>
+    </div>
+</div><div class='bloqueZona1  tipoDisplay'><div class="header-block tabla1 tablaBloque11749  ">
+	<div class="header-gov ">
+		<div class="container">
+			<div class="row">
+				<!-- logo -->
+				<div class="col-xs-8 col-sm-4 logo-gov">
+					<a href="https://www.gov.co/" title="Gobierno de Colombia" target="_blank">
+						<img class="img-responsive " src="/mod/Bloques/img/logo_gov_co-v2.svg" id="bloqueImg" alt="">
+					</a>
+				</div>
+
+												<div class="col-xs-4 col-sm-8 toolbar-gov-co">
+					<div class="toolbar-header-gov">
+							<ul class="list-inline text-right toolbar-login">										<!-- language en -->
+								<li class="toolbar_language toolbar_language--en notranslate" tabindex='2'>
+									<a href="#" class="lang_button notranslate idiomaHiper" data-lang="EN">
+											EN
+									</a>
+								</li>
+								<!-- end language en -->
+								<!-- language es -->
+								<li class="toolbar_language toolbar_language--es notranslate">
+									<a href="#" class="lang_button notranslate lang_active idiomaHiper" data-lang="ES">
+									ES
+									</a>
+								</li>
+								<!-- end language es -->
+							</ul>
+					</div>
+				</div>
+
+
+								
+				<!-- end toolbar -->
+			</div>
+		</div>
+	</div>
+	<!-- END HEADER GOVCO -->
+
+	<div class="header_entidad container">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 logo_entidad">
+				<a href="/index.php" class="logo_horizontal">
+					<img class="img-responsive " src="/info/huila_bco/media/bloqueheader11749.png" alt="Gobernaci&oacute;n del Huila" title="Gobernaci&oacute;n del Huila">
+				</a>
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 buscar_entidad">
+				<ul class="list-unstyled text-right toolbar_login_buscar">
+															<li class="toolbar-text link_iniciar_sesion toolbar-border-right">
+						<a href="/login" title="Ingresar">Iniciar sesi&oacute;n</a>
+					</li>
+																				<li class="bloque_buscar">
+						<form action="/buscar/" class="form-horizontal" method="get">
+							<fieldset>
+								<label class="sr-only" for="search-box">Buscar...</label>
+								<input id="search-box" class="form-control search-mod search-box" placeholder="Buscar..." name="q" value="" type="search">
+								<button class="btn_search" type="submit">
+									
+									<span class="fa fa-search"></span>
+									<span class="hidden">Buscar</span>
+								</button>
+								<!-- <input type="hidden" value="" name="tk"> -->
+							</fieldset>
+						</form>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- END HEADER ENTIDAD -->
+
+
+	<div class="u-menu">
+		<div class="container">
+			<div class='bloqueZona1  tipoDisplay'>
+<!--        <div class="row-offcanvas row-offcanvas-right">-->
+<nav
+    class="navbar navbar-default nav-menu  nxBlock nxBlockMegamenu nxBlockDesign1 nxBlockMegamenu11252 nav-menu sign-menu">
+        <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse"
+            data-target=".divNxBlockMegamenu11252">
+            <span class="sr-only">Desplegar navegaci&oacute;n</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+    </div>
+    <div class="collapse navbar-collapse navbar-ex1-collapse divNxBlockMegamenu11252 row">
+                <ul class="nav navbar-nav navbar-right megamenu">
+                        <li id="boton11252-1"                class="gift14">
+                <a href='https://www.huila.gov.co/index.php' title='Inicio' >Inicio</a>            </li>
+                        <li id="boton11252-2"                class="gift2 item-max-width">
+                <a href='https://www.huila.gov.co/publicaciones/9563/transparencia-y-acceso-a-la-informacion-publica-ley-1712/' title='Transparencia y Acceso a la Información Pública' >Transparencia y Acceso a la Información Pública</a>            </li>
+                        <li id="boton11252-3" data-accordion="#accordion"
+                class="dropdown dropdown-accordion items_columna_1 gift3">
+                <a href="#"                      class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"
+                    title="Atención Ciudadana">
+                    Atención Ciudadana                                    </a>
+                
+                                <div class="dropdown-menu">
+                                        <div class="row megamenuContenedorGeneral">
+                                                <div
+                            class="row megamenuContenedorPrincipal col-md-12">
+                             <div class='bloqueZona2  tipoDisplay'><div class="nxBlock nxBlock11509 nxBlockDesign1 nxBlockLayout
+ gift3"
+     >
+    
+    <div class="defaultLayout blockContent">
+            <div class="layout11509">
+        <div class="row">
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11268 nxBlockDesign1 nxBlockEnlaces typeList ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces11268 ">
+                            <a class="section " 
+                href="https://www.huila.gov.co/tramites/"
+                   title="Enlace a Tr&aacute;mites y servicios">
+                     <strong>Tr&aacute;mites y servicios</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift10" 
+                href="https://www.huila.gov.co/publicaciones/7132/canales-de-atencion/"
+                   title="Enlace a Canales de atenci&oacute;n">
+                     <strong>Canales de atenci&oacute;n</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift43" 
+                href="https://www.huila.gov.co/publicaciones/9535/pqrsfd/"
+                   title="Enlace a Radicar PQRSDF">
+                     <strong>Radicar PQRSDF</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift11" 
+                href="https://www.huila.gov.co/publicaciones/12043/pasaportes/"
+                   title="Enlace a Agenda una cita">
+                     <strong>Agenda una cita</strong>                 </a>
+                                            <a class="section panel-menu col-x s-12 col-md-4 col-lg-4 gift31" 
+                href="https://www.huila.gov.co/preguntas-frecuentes/"
+                   title="Enlace a Preguntas y respuestas FAQ">
+                     <strong>Preguntas y respuestas FAQ</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift6" 
+                href="https://www.huila.gov.co/publicaciones/3/carta-de-trato-digno/"
+                   title="Enlace a Carta al trato digno">
+                     <strong>Carta al trato digno</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4" 
+                href="https://www.huila.gov.co/glosario/"
+                   title="Enlace a Glosario">
+                     <strong>Glosario</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift21" 
+                href="https://www.huila.gov.co/publicaciones/10938/normativa/"
+                   title="Enlace a Normativa">
+                     <strong>Normativa</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift9" 
+                href="https://www.huila.gov.co/publicaciones/5/ayuda/"
+                   title="Enlace a Ayuda">
+                     <strong>Ayuda</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift10" 
+                href="https://www.huila.gov.co/publicaciones/12059/encuestas-de-percepcion-productores-agropecuarios-comunidad-e-instituciones-educativas-alcaldes-municipales/"
+                   title="Enlace a Encuestas de Percepci&oacute;n">
+                     <strong>Encuestas de Percepci&oacute;n</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift9" 
+                href="https://www.huila.gov.co/publicaciones/14946/encuesta-de-usabilidad/"
+                   title="Enlace a Encuesta de usabilidad">
+                     <strong>Encuesta de usabilidad</strong>                 </a>
+                                            <a class="section panel-menu col-xs-12 col-md-4 col-lg-4 gift9" Target="_blank"
+                href="https://extranet.huila.gov.co/Public.aspx?Codigo=1bfb5b60bc11f0487956903f257011e7"
+                   title="Enlace a Encuesta de Satisfacci&oacute;n">
+                     <strong>Encuesta de Satisfacci&oacute;n</strong>                 </a>
+                                    </div>
+    </div>
+</div>
+</div>
+                </div>
+                    </div>
+    </div>
+    </div>
+</div>
+</div>                        </div>
+                                                                    </div>
+                                    </div>
+                            </li>
+                        <li id="boton11252-4"                class="gift5">
+                <a href='https://www.huila.gov.co/publicaciones/15396/descripcion-general-del-menu-participa/' title='Participa' >Participa</a>            </li>
+                        <li id="boton11252-5" data-accordion="#accordion"
+                class="dropdown dropdown-accordion gift1">
+                <a href="#"                      class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"
+                    title="Quiénes Somos">
+                    Quiénes Somos                                    </a>
+                
+                                <div class="dropdown-menu">
+                                        <div class="row megamenuContenedorGeneral">
+                                                <div
+                            class="row megamenuContenedorPrincipal col-md-12">
+                             <div class='bloqueZona2  tipoDisplay'><div class="nxBlock nxBlock11508 nxBlockDesign1 nxBlockLayout
+ gift1"
+     >
+    
+    <div class="defaultLayout blockContent">
+            <div class="layout11508">
+        <div class="row">
+                            <div class="item col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11442 nxBlockDesign1 nxBlockEnlaces typeList ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces11442 ">
+                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/144/identificacion-del-departamento/"
+                   title="Enlace a El Huila">
+                     <strong>El Huila</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class="gift28"
+                                        href="https://www.huila.gov.co/publicaciones/144/identificacion-del-departamento/"
+                                       title="Enlace a El Huila">Identificaci&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift29"
+                                        href="https://www.huila.gov.co/publicaciones/145/historia-del-huila/"
+                                       title="Enlace a El Huila">Historia</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift24"
+                                        href="https://www.huila.gov.co/publicaciones/5211/ley-de-creacion-del-departamento-66265/"
+                                       title="Enlace a El Huila">Ley de Creaci&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift32"
+                                        href="https://www.huila.gov.co/publicaciones/5180/relieve-y-clima/"
+                                       title="Enlace a El Huila">Relieve y Clima</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift23"
+                                        href="https://www.huila.gov.co/publicaciones/152/mapa-del-huila/"
+                                       title="Enlace a El Huila">Mapas</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift40"
+                                        href="https://www.huila.gov.co/publicaciones/5048/nuestros-simbolos/"
+                                       title="Enlace a El Huila">S&iacute;mbolos</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift12"
+                                        href="https://www.huila.gov.co/publicaciones/5148/actividad-economica-del-departamento-17736/"
+                                       title="Enlace a El Huila">Actividad Econ&oacute;mica</a>
+                                </li>
+                                                            <li>
+                                    <a class="gift36"
+                                        href="https://www.huila.gov.co/publicaciones/150/territorios/"
+                                       title="Enlace a El Huila">Territorios</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+</div>
+                </div>
+                            <div class="item col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock475 nxBlockDesign1 nxBlockEnlaces typeList ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces475 ">
+                            <a class="section gift39" 
+                href="https://www.huila.gov.co/publicaciones/543/gobernador-del-departamento/"
+                   title="Enlace a El Gobernador">
+                     <strong>El Gobernador</strong>                 </a>
+                                            <a class="section gift38" 
+                href="https://www.huila.gov.co/publicaciones/92/mision-y-vision/"
+                   title="Enlace a Misi&oacute;n y Visi&oacute;n">
+                     <strong>Misi&oacute;n y Visi&oacute;n</strong>                 </a>
+                                            <a class="section gift19" 
+                href="https://www.huila.gov.co/publicaciones/334/objetivos-y-funciones/"
+                   title="Enlace a Objetivos y Funciones">
+                     <strong>Objetivos y Funciones</strong>                 </a>
+                                            <a class="section gift33" 
+                href="https://www.huila.gov.co/publicaciones/8394/resena-historica/"
+                   title="Enlace a Rese&ntilde;a Hist&oacute;rica">
+                     <strong>Rese&ntilde;a Hist&oacute;rica</strong>                 </a>
+                                            <a class="section gift42" 
+                href="https://www.huila.gov.co/publicaciones/50/estructura-organizacional/"
+                   title="Enlace a Estructura Organizacional">
+                     <strong>Estructura Organizacional</strong>                 </a>
+                                            <a class="section gift41" 
+                href="https://www.huila.gov.co/publicaciones/14628/gabinete-departamental-2024/"
+                   title="Enlace a Gabinete Departamental">
+                     <strong>Gabinete Departamental</strong>                 </a>
+                                            <a class="section gift22" 
+                href="https://www.huila.gov.co/publicaciones/7044/modelo-estandar-de-control-interno-meci/"
+                   title="Enlace a Modelo Est&aacute;ndar de Control Interno">
+                     <strong>Modelo Est&aacute;ndar de Control Interno</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/7131/rendicion-de-cuentas/"
+                   title="Enlace a Rendici&oacute;n de Cuentas">
+                     <strong>Rendici&oacute;n de Cuentas</strong>                 </a>
+                                    </div>
+    </div>
+</div>
+</div>
+                </div>
+                            <div class="item col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11443 nxBlockDesign1 nxBlockLayout
+ "
+     >
+            <h2>
+                        <span class="nxBlockTitle">Dependencias</span>
+        </h2>
+    
+    <div class="defaultLayout blockContent">
+            <div class="layout11443">
+        <div class="row">
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock505 nxBlockDesign1 nxBlockEnlaces typeAccordion ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces505 contructAcordeon">
+                            <a class="section " 
+                href="#"
+                   title="Enlace a Secretar&iacute;as">
+                     <strong>Secretar&iacute;as</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/educacion"
+                                       title="Enlace a Secretar&iacute;as">Educaci&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/salud"
+                                       title="Enlace a Secretar&iacute;as">Salud</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/cultura-y-turismo"
+                                       title="Enlace a Secretar&iacute;as">Cultura</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/agricultura-y-mineria"
+                                       title="Enlace a Secretar&iacute;as">Agricultura y Miner&iacute;a</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/vias-e-infraestructura"
+                                       title="Enlace a Secretar&iacute;as">V&iacute;as e Infraestructura</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/general"
+                                       title="Enlace a Secretar&iacute;as">General</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/gobierno-y-desarrollo-comunitario"
+                                       title="Enlace a Secretar&iacute;as">Secretar&iacute;a de Gobierno, Seguridad y Asuntos Comunitarios</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/hacienda"
+                                       title="Enlace a Secretar&iacute;as">Hacienda</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/productividad-competitividad/"
+                                       title="Enlace a Secretar&iacute;as">Desarrollo Econ&oacute;mico y Turismo</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       Target="_blank" href="https://www.huila.gov.co/mujer"
+                                       title="Enlace a Secretar&iacute;as">Mujer, Familia e Inclusi&oacute;n Social</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+    <script>
+        $(function () {
+            $(".constructEnlaces505").accordion({
+                 collapsible: true,                 active: false,
+                heightStyle: "content"
+                            });
+        });
+    </script>
+</div>
+                </div>
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock10382 nxBlockDesign1 nxBlockEnlaces typeAccordion ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces10382 contructAcordeon">
+                            <a class="section " 
+                href="#"
+                   title="Enlace a Departamentos Administrativos">
+                     <strong>Departamentos Administrativos</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/administrativo-de-planeacion"
+                                       title="Enlace a Departamentos Administrativos">Planeaci&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/6195/departamento-administrativo-de-contratacion/"
+                                       title="Enlace a Departamentos Administrativos">Contrataci&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/5287/director-del-departamento-administrativo-juridico/"
+                                       title="Enlace a Departamentos Administrativos">Jur&iacute;dico</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+    <script>
+        $(function () {
+            $(".constructEnlaces10382").accordion({
+                 collapsible: true,                 active: false,
+                heightStyle: "content"
+                            });
+        });
+    </script>
+</div>
+                </div>
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock512 nxBlockDesign1 nxBlockEnlaces typeAccordion ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces512 contructAcordeon">
+                            <a class="section " 
+                href="#"
+                   title="Enlace a Oficinas Asesoras">
+                     <strong>Oficinas Asesoras</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/5077/jefe-oficina-de-control-interno-de-gestion/"
+                                       title="Enlace a Oficinas Asesoras">Control Interno de Gesti&oacute;n</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/10661/jefe-oficina-control-disciplinario/"
+                                       title="Enlace a Oficinas Asesoras">Control Interno Disciplinario</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/15660/el-huila-grande-se-fortalece-ante-emergencias-gobierno-departamental-rinde-cuentas-sobre-gestion-del-riesgo/"
+                                       title="Enlace a Oficinas Asesoras">Gesti&oacute;n de Riesgo de Desastres</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+    <script>
+        $(function () {
+            $(".constructEnlaces512").accordion({
+                 collapsible: true,                 active: false,
+                heightStyle: "content"
+                            });
+        });
+    </script>
+</div>
+                </div>
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock10399 nxBlockDesign1 nxBlockEnlaces typeAccordion ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces10399 contructAcordeon">
+                            <a class="section " 
+                href="#"
+                   title="Enlace a Entidades Descentralizadas">
+                     <strong>Entidades Descentralizadas</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.asamblea-huila.gov.co/"
+                                       title="Enlace a Entidades Descentralizadas">Asamblea Departamental</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.aguasdelhuila.gov.co/"
+                                       title="Enlace a Entidades Descentralizadas">Aguas del Huila S.A ESP</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.infihuila.gov.co/"
+                                       title="Enlace a Entidades Descentralizadas">Infihuila</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.loteriadelhuila.com/a/"
+                                       title="Enlace a Entidades Descentralizadas">Loter&iacute;a del Huila</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://inderhuila.gov.co"
+                                       title="Enlace a Entidades Descentralizadas">Inderhuila</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="http://www.fonvihuila.gov.co/"
+                                       title="Enlace a Entidades Descentralizadas">Fonvihuila</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="http://www.transito-huila.gov.co/"
+                                       title="Enlace a Entidades Descentralizadas">Instituto de Transporte y Transito Huila</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.elterminalneiva.com/#/"
+                                       title="Enlace a Entidades Descentralizadas">Terminal de Transportes de Neiva S.A</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+    <script>
+        $(function () {
+            $(".constructEnlaces10399").accordion({
+                 collapsible: true,                 active: false,
+                heightStyle: "content"
+                            });
+        });
+    </script>
+</div>
+                </div>
+                    </div>
+    </div>
+    </div>
+</div>
+</div>
+                </div>
+                    </div>
+    </div>
+    </div>
+</div>
+</div>                        </div>
+                                                                    </div>
+                                    </div>
+                            </li>
+                        <li id="boton11252-6"                class="gift4">
+                <a href='https://www.huila.gov.co/tramites' title='Trámites y Servicios' >Trámites y Servicios</a>            </li>
+                        <li id="boton11252-7" data-accordion="#accordion"
+                class="dropdown dropdown-accordion item_menu_mas">
+                <a href="#"                      class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"
+                    title="">
+                                                        </a>
+                
+                                <div class="dropdown-menu">
+                                        <div class="row megamenuContenedorGeneral">
+                                                <div
+                            class="row megamenuContenedorPrincipal col-md-12">
+                             <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11439 nxBlockDesign1 nxBlockLayout
+ menu-mas"
+     >
+    
+    <div class="defaultLayout blockContent">
+            <div class="layout11439">
+        <div class="row">
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 gift13">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11440 nxBlockDesign1 nxBlockEnlaces typeAccordion ">
+            <h2>
+                        <span class="nxBlockTitle">Inf&oacute;rmate</span>
+        </h2>
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces11440 contructAcordeon">
+                            <a class="section " 
+                href="#"
+                   title="Enlace a Sala de Prensa">
+                     <strong>Sala de Prensa</strong>                 </a>
+                                    <div class="contentSection ">
+                        <ul class="listSection">
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/noticias/"
+                                       title="Enlace a Sala de Prensa">Noticias</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/documentos/965/boletines/"
+                                       title="Enlace a Sala de Prensa">Boletines</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                       target="_blank" href="https://www.youtube.com/user/huilagob"
+                                       title="Enlace a Sala de Prensa">Galer&iacute;a Multimedia</a>
+                                </li>
+                                                            <li>
+                                    <a class=""
+                                        href="https://www.huila.gov.co/publicaciones/7158/gaceta-departamental/"
+                                       title="Enlace a Sala de Prensa">Gaceta</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                                    </div>
+    </div>
+</div>
+    <script>
+        $(function () {
+            $(".constructEnlaces11440").accordion({
+                 collapsible: true,                 active: false,
+                heightStyle: "content"
+                            });
+        });
+    </script>
+</div>
+                </div>
+                            <div class="item col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                    <div class='bloqueZona1  tipoDisplay'><div class="nxBlock nxBlock11441 nxBlockDesign1 nxBlockEnlaces typeList ">
+        <div class="blockContent defaultEnlaces ">
+        <div class="constructEnlaces11441 ">
+                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/10714/aplicaciones-digitales/"
+                   title="Enlace a Aplicaciones Digitales">
+                     <strong>Aplicaciones Digitales</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.datos.gov.co/browse?q=departamento%20huila&amp;sortBy=relevance"
+                   title="Enlace a Datos Abiertos">
+                     <strong>Datos Abiertos</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/114/informacion-para-ninos-ninas-y-adolescentes/"
+                   title="Enlace a Informaci&oacute;n para Ni&ntilde;os, Ni&ntilde;as y Adolescentes">
+                     <strong>Informaci&oacute;n para Ni&ntilde;os, Ni&ntilde;as y Adolescentes</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/12677/macroproyectos/"
+                   title="Enlace a Macroproyectos">
+                     <strong>Macroproyectos</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/10762/observatorio-digital/"
+                   title="Enlace a Observatorio Digital">
+                     <strong>Observatorio Digital</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/5088/entes-de-control/"
+                   title="Enlace a Organismos de Control">
+                     <strong>Organismos de Control</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/10713/programas-transversales/"
+                   title="Enlace a Programas Transversales">
+                     <strong>Programas Transversales</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/mujer/"
+                   title="Enlace a Programas Sociales">
+                     <strong>Programas Sociales</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/administrativo-de-planeacion/loader.php?lServicio=Tools2&amp;lTipo=descargas&amp;lFuncion=descargar&amp;idFile=89469"
+                   title="Enlace a Plan de Desarrollo">
+                     <strong>Plan de Desarrollo</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/publicaciones/9951/rendicion-de-cuentas-vigencia-2020/"
+                   title="Enlace a Rendici&oacute;n de Cuentas">
+                     <strong>Rendici&oacute;n de Cuentas</strong>                 </a>
+                                            <a class="section " 
+                href="https://www.huila.gov.co/documentos/1556/presentaciones/"
+                   title="Enlace a Tutoriales">
+                     <strong>Tutoriales</strong>                 </a>
+                                    </div>
+    </div>
+</div>
+</div>
+                </div>
+                    </div>
+    </div>
+    </div>
+</div>
+</div>                        </div>
+                                                                    </div>
+                                    </div>
+                            </li>
+                    </ul>
+    </div>
+
+    <script>
+    $(document).ready(function() {
+        var estadoMenu = 0;
+        $(".dropdown").click(function() {
+            if ($(window).width() < 769 && estadoMenu == 0) {
+                estadoMenu = 1;
+                $(".collapseMenu").each(function() {
+                    //                                $(this).addClass('fa fa-chevron-right');
+                    var listado = $(this).data('object');
+                    $("#" + listado).addClass('collapse');
+                    $(this).attr("href", "#" + listado);
+                });
+                $(".megamenuPublicacionesEnlace").each(function() {
+                    var valorHref = $(this).data("href");
+                    $(this).prop("href", valorHref);
+                });
+                $('html, body').animate({
+                    scrollTop: $("#" + $(this).attr("id")).offset().top
+                });
+            } else if ($(window).width() < 769) {
+                $('html, body').animate({
+                    scrollTop: $("#" + $(this).attr("id")).offset().top
+                });
+            } else if ($(window).width() > 769 && estadoMenu == 1) {
+                estadoMenu = 0;
+                $(".megamenuPublicacionesEnlace").each(function() {
+                    var valorHref = $(this).data("href");
+                    $(this).attr("href", "#");
+                });
+                $(".collapseMenu").each(function() {
+                    $(this).removeClass('fa fa-chevron-right');
+                    var listado = $(this).data('object');
+                    $("#" + listado).removeClass('collapse');
+                    $(this).attr("href", $(this).data("url"));
+                });
+
+            }
+        });
+
+        $('.dropdown-accordion').on('show.bs.dropdown', function(event) {
+            var accordion = $(this).find($(this).data('accordion'));
+            accordion.find('.panel-collapse.in').collapse('hide');
+        }).on('click', 'a[data-toggle="collapse"]', function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $($(this).data('parent')).find('.panel-collapse.in').collapse('hide');
+            $($(this).attr('href')).collapse('show');
+        });
+
+            }); // ready
+    </script>
+    </nav>
+<!--        </div>-->
+</div>
+		</div>
+	</div>
+<div id="google_translate_element" style="display:none;"></div>
+<script type="text/javascript">
+    // Genera un timestamp único basado en la fecha/hora actual
+    // En producción, esto cambiará cada vez que recargues la página,
+    // garantizando que nunca se cachee una versión vieja.
+    var version = new Date().getTime();
+    var js = document.createElement('script');
+    js.type = 'text/javascript';
+    js.async = true;
+    js.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&v=' + version;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(js, s);
+</script>
+	<!-- END MEGAMENU -->
+</div></div><div class="tabla1 tablaBloque11777  "
+    >
+    
+    <div class="contenido1">
+        <script>
+  const lista = $(".toolbar_login_buscar");
+
+  const enlace1 = $("<a>", {
+    href: "https://outlook.office.com/mail/",
+    text: "Correo",
+    title: "Correo",
+    target: "_blank",
+  });
+  const enlace2 = $("<a>", {
+    href: "https://extranet.huila.gov.co/",
+    text: "Extranet",
+    title: "Extranet",
+    target: "_blank",
+  });
+
+  const liEnlace1 = $("<li>", { class: "hidden-xs toolbar-text" }).append(
+    enlace1
+  );
+  const liEnlace2 = $("<li>", { class: "hidden-xs toolbar-text" }).append(
+    enlace2
+  );
+
+  lista.prepend(liEnlace1, liEnlace2);
+</script>
+    </div>
+</div><div class="tabla1 tablaBloque12718  "
+    >
+    
+    <div class="contenido1">
+        <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Crear contenedor principal del skip link
+    const skipContainer = document.createElement("div");
+    skipContainer.className = "skip-container";
+
+    const innerContainer = document.createElement("div");
+    innerContainer.className = "container";
+
+    // Crear enlace
+    const skipLink = document.createElement("a");
+    skipLink.textContent = "Saltar al contenido";
+    skipLink.className = "skip-link";
+
+    let targetId;
+
+    if (document.body.classList.contains("dPrincipal")) {
+      // Página principal: asignar id dinámico
+      const homeEl = document.querySelector(".content-home");
+      if (homeEl) homeEl.id = "content-home";
+      targetId = "content-home";
+    } else {
+      // Internas: ya existe main-content, no tocar
+      targetId = "main-content";
+    }
+
+    skipLink.href = "#" + targetId;
+
+    // Al hacer click/Enter, mover foco al destino
+    skipLink.addEventListener("click", (e) => {
+      e.preventDefault();
+      const target = document.getElementById(targetId);
+      if (target) {
+        target.setAttribute("tabindex", "-1");
+        target.focus();
+      }
+    });
+
+    // Insertar estructura al inicio del body
+    innerContainer.appendChild(skipLink);
+    skipContainer.appendChild(innerContainer);
+    document.body.insertBefore(skipContainer, document.body.firstChild);
+  });
+</script>
+
+<style>
+  .skip-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    width: 100%;
+  }
+  .skip-link {
+    color: #fff !important;
+    text-decoration: none !important;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    position: absolute;
+    left: -999px;
+  }
+  .skip-link:focus {
+    position: static;
+    margin: 0.5rem 0;
+    outline: 2px solid #fff !important;
+    background-color: #3366cc;
+  }
+</style>
+    </div>
+</div>
+<!-- fin cache zona#1 (2026/09/15 09:08:10) -->
+</header>
+<!-- main content -->
+<section id="main-content" class="container cInternoAmplio">
+    <section class="row">
+        <section class="col-xs-12 cInfo">
+	        <div id="infoPrincipal">
+    <ul class="modPath breadcrumb">
+            <li class="modPath-home"><a href="https://www.huila.gov.co/"><span class="fa fa-home"></span><span class="text">Inicio</span></a></li>
+    
+    
+    <li>Descargas</li>
+</ul>
+
+
+    <h1>Descargas</h1>
+
+    <div class="modMenuContainer row"></div>
+    <div class="modContent">
+        
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<!-- Mensaje de alerta -->
+<div class="alert alert-info" role="alert">
+    Para consultar el documento valida que no eres un robot.
+</div>
+
+<form action="https://www.huila.gov.co/loader.php?lServicio=Tools2&amp;lTipo=descargas&amp;lFuncion=validarProcess" method="post">
+    <!-- Widget de reCAPTCHA v2 -->
+    <div class="g-recaptcha" data-sitekey="6Lf80hktAAAAAPIULprqjboIPXWSMCO9KYkW9_6J"></div>
+    <br>
+    <input name='sxToken' type='hidden' value='cc318359320b5a98de0bff9d68e293d3'>
+    <!-- ID único recibido desde el controlador para asociar la pestaña con la sesión -->
+    <input type="hidden" name="requestId" value="01cc6b8b5e6068d8fe45bf8c7cbb9fa0">
+    <input type="submit" value="Validar" class="btn btn-primary">
+    <br>
+</form>
+        
+        
+        <div class="footer-share-options">
+            <div class="col-lg-7 col-md-6 col-xs-2 share-options bottom-redes">
+                <ul class="nav nav-pills">
+                    <li class="share-print"><a title="Imprimir" href="javascript:window.print(); void 0;"><span class="fa fa-print fa-2x" aria-hidden="true"></span><span class="hidden">Imprimir</span></a></li>
+                                        <li class="share-print"><a id="bnt-play-vozme" onclick="init_vozme();" title="Leer contenido" href="javascript: void 0;"><span id="vozme" data-url-init="https://www.huila.gov.co/loader.php?lServicio=Tools2&amp;lTipo=vozme&amp;lFuncion=init" data-url-main="https://www.huila.gov.co/loader.php?lServicio=Tools2&amp;lTipo=vozme" data-token="a32d8bb1548aa1a27179bd25a4a43842" class="fa fa-volume-up fa-2x" aria-hidden="true"></span><span class="hidden">Leer contenido</span></a></li>
+                </ul>
+                <div id="block-play-vozme" style="display:none; padding-top: 20px;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </section>
+    </section>
+</section>
+<!-- end main content -->
+<footer>
+     <!-- inicio cache zona#3 (2026/09/15 09:08:10) -->
+<div class="tabla1 tablaBloque11451  "
+    >
+    
+    <div class="contenido1">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106825160-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106825160-1');
+</script>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2DK3HX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    </div>
+</div><div class="tabla1 tablaBloque11892  "
+    >
+    
+    <div class="contenido1">
+        <style>
+   .transparencia .transparencia_item .card-header:hover  img{
+    filter: brightness(0) saturate(100%) invert(100%) sepia(6%) saturate(0%) hue-rotate(70deg) brightness(108%) contrast(108%);
+
+  }
+  .card-tramite .slick-track {
+    padding: 2rem 0;
+  }
+  .slider_banner .item a .image {
+    background-color: var(--color-primary) !important;
+  }
+.slider_banner .item a .image img {filter: inherit;}
+  .card-tramite .item > a {
+    display: flex;
+    width: 320px;
+    max-width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1.5rem;
+    margin: 0.5rem auto;
+    background-color: white;
+    border: none;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    transition: all 0.25s ease 0s;
+  }
+  .card-tramite .item > a .image {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 auto 1rem auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: var(--color-primary);
+    justify-content: center;
+    align-items: center;
+    border: none !important;
+  }
+  .card-tramite .item > a.color-2 .image {
+    background-color: var(--color-secondary);
+  }
+  .card-tramite .item > a .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    filter: var(--filter-white);
+  }
+  .card-tramite .item > a .title {
+    color: var(--color-text);
+    font-family: var(--font-for-title-bold);
+    font-size: 1.125rem;
+    line-height: normal;
+    margin-bottom: 0;
+  }
+  .card-tramite .item > a:hover,
+  .card-tramite .item > a:focus {
+    transform: scale(1.1);
+  }
+  header .header-block .toolbar_login_buscar {
+    display: inherit !important;
+  }
+  .bloque_noticias_secundarias .item a .title {
+    word-break: break-word;
+  }
+  .nxBlockDynamicLayout1 a {
+    width: 100%;
+    margin-left: 0;
+    padding: 1rem;
+  }
+  .nxBlockDynamicLayout1 a:hover {
+    width: 100%;
+  }
+  .section_redes .ui-tabs .ui-tabs-nav{
+	display: flex;
+	justify-content: center
+  }
+
+
+</style>
+
+<script>
+  $(document).ready(function () {
+    // Busca la hoja de estilos que contiene 'user.min.css' en su atributo href
+    var userStylesheet = $('link[href*="user.min.css"]');
+    // Mueve la hoja de estilos al final
+    $("head").append(userStylesheet);
+  });
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	function nxFixAccordionLinks(scope) {
+		$(scope).find('.typeAccordion a.section').each(function() {
+			var $link = $(this);
+			var href = $link.attr('href');
+
+			// Si tiene href y NO es "#", debe comportarse como enlace directo
+			if (href && href !== '#') {
+				// Quitar handlers del acordeón (namespaced) y genéricos por si acaso
+				$link.off('.accordion').off('click keydown');
+
+				// Clonar sin eventos y reemplazar para asegurar que no queden handlers
+				var $clean = $link.clone(false, false);
+
+				// Quitar clases de jQuery UI / acordeón
+				$clean.removeClass('ui-accordion-header ui-state-default ui-accordion-icons ui-accordion-header-collapsed ui-corner-all ui-corner-top ui-state-active ui-state-hover');
+
+				// Eliminar atributos ARIA y otros del acordeón
+				$clean.removeAttr('role')
+					.removeAttr('aria-controls')
+					.removeAttr('aria-selected')
+					.removeAttr('aria-expanded')
+					.removeAttr('aria-disabled')
+					.removeAttr('id')
+					.removeAttr('tabindex');
+
+				// Eliminar el ícono dentro del <a>
+				$clean.find('span.ui-accordion-header-icon, span.ui-icon').remove();
+
+				// Añadir clase propia para estilos
+				$clean.addClass("nx-accordion-link");
+
+				// Evitar que el contenedor/accordion intercepte el click
+				$clean.on('click', function(e) {
+					e.stopPropagation(); // deja pasar la navegación normal del <a>
+				});
+
+				$link.replaceWith($clean);
+			}
+		});
+	}
+
+	// Ejecutar al cargar el DOM
+	nxFixAccordionLinks(document);
+
+	// Reintento breve por si el acordeón se inicializa después
+	setTimeout(function() {
+		nxFixAccordionLinks(document);
+	}, 200);
+
+	// Por si recursos externos inicializan el acordeón en window.load
+	$(window).on('load', function() {
+		nxFixAccordionLinks(document);
+	});
+});
+</script>
+
+<style>
+/* Estilos para los enlaces que reemplazan headers */
+.nx-accordion-link {
+        background-color: var(--color-tertiary);
+	display: block;
+	width: 100%;
+	text-decoration: none;
+        margin-bottom: 2px;
+}
+.nx-accordion-link:hover {
+	background-color: var(--color-primary);
+	color: #fff; 
+}
+</style>
+    </div>
+</div><div class="cookies-block tabla1 tablaBloque11739 ">
+    <span class="cookies__titulo headline-xl-govco">&iquest;Aceptas nuestras Cookies?</span>
+    <div  class="cookies__texto">
+          <p>Usamos cookies para mejorar tu experiencia en la web.</p>
+
+<p>Consulta&nbsp;aqu&iacute; nuestras <a href="https://www.huila.gov.co/publicaciones/1/politicas-de-privacidad-y-condiciones-de-uso/">Pol&iacute;ticas de privacidad</a> y condiciones de uso.</p>
+    
+    </div>
+    <div class="cookies__botones">
+                    <button class="btn btn-outline-primary cookies__boton cookies__boton--si">Aceptar</button>
+            <button class="btn btn-outline-primary cookies__boton cookies__boton__no__principal">Denegar</button>
+            <button data-toggle="modal" data-target="#modalConfigurarCookie" class="btn btn-outline-primary cookies__boton cookies__boton--configurar">Configuraci&oacute;n de cookies</button>  
+            </div>
+    
+
+        <!-- No borrar, aquí se generarán todas las etiquetas <script> si acepta el usuario -->
+        <div id="nuevosScripts"></div>
+        <div id="cookieDesplegar" data-url="null"></div>
+
+
+                <!-- Modal configuración  -->
+        <div class="modal fade" data-keyboard="false" data-backdrop="static" id="modalConfigurarCookie" tabindex="-1" role="dialog" aria-labelledby="modalLabelSmall" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <span class="modal-title headline-l-govco" id="modaltitleConfiguracion">Configuraci&oacute;n Cookies</span>
+                    </div>
+
+                    <div class="modal-body">
+                        <h2 id="titulo-cookie">Centro de preferencia de la privacidad</h2>
+                        <div id="descripcion-cookie">
+                            <p>Al momento de visitar cualquier sitio web, &eacute;stos podr&iacute;an obtener o guardar informaci&oacute;n en su navegador mediante el uso de cookies. Las cookies pueden recolectar informaci&oacute;n relacionada con su dispositivo y sus preferencias, y se usan principalmente para que el sitio funcione seg&uacute;n lo esperado. Por lo general, la informaci&oacute;n que recolectan las cookies no lo identifica directamente, pero pueden proporcionarle una experiencia web m&aacute;s personalizada. Por respeto a su derecho a la privacidad, usted tiene la opci&oacute;n de rechazar el uso de ciertas cookies. Haga clic en los encabezados de cada categor&iacute;a para saber m&aacute;s y cambiar nuestras configuraciones predeterminadas. Tenga en cuenta que el bloqueo de algunos tipos de cookies puede afectar su experiencia en el sitio y los servicios que podemos ofrecer.</p>
+
+                        </div>
+                        <br>
+                        <div class="panel-group" id="accordion">
+                            <div class="panel panel-default">
+                                <!-- cookies estrictamente necesarias -->
+                                <div class="panel-heading">
+                                    <span class="panel-title headline-l-govco">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneC1">Cookies estrictamente necesarias</a>
+                                    </span>
+                                </div>
+                                <div id="collapseOneC1" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                               
+                                                    <p>Estas cookies son necesarias para que el sitio web funciones correctamente, Usualmente est&aacute;s configuradas para realizar acciones hechas por usted y pueda recibir servicios, como lo son iniciar sesi&oacute;n en el sitio, o llenar formularios. Usted puede configurar su navegador para bloquear la presencia de estas cookies, pero algunas partes del sitio web no funcionar&aacute;n.</p>
+ 
+                                                
+                                            </div>
+                                            <div class="cookies__botones_und col-md-4">
+                                                <span>Activas siempre</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- cookies de rendimiento -->
+                                <div class="panel-heading">
+                                    <span class="panel-title headline-l-govco">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneC2">Cookies de estad&iacute;stica</a>
+                                    </span>
+                                </div>
+                                <div id="collapseOneC2" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                
+                                                <p>Estas cookies nos ayudan a comprender como interact&uacute;an los visitantes con las p&aacute;ginas web reuniendo y proporcionando informaci&oacute;n de forma an&oacute;nima.</p>
+ 
+                                                
+                                            </div>
+                                            <div class="cookies__botones_und col-md-4">
+                                                <div class="onoffswitch switchC2">
+                                                    <input type="checkbox" value="aqui" name="onoffswitch2" class="onoffswitch-checkbox" id="onoffswitch2" checked >
+                                                    <label class="onoffswitch-label" for="onoffswitch2">
+                                                        <span class="visually-hidden">Acepto las cookies de estadistica</span>    
+                                                        <span class="onoffswitch-inner"></span>
+                                                        <span class="onoffswitch-switch"></span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- cookies Preferencia -->
+                                <div class="panel-heading">
+                                    <span class="panel-title headline-l-govco">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneC3">Cookies de preferencia</a>
+                                    </span>
+                                </div>
+                                <div id="collapseOneC3" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                
+                                                <p>Estas cookies permiten que el sitio ofrezca mejor funcionalidad y personalizaci&oacute;n, Estas pueden ser establecidas por nosotros o por terceros cuyos servicios hemos agregado a nuestras p&aacute;ginas.</p>
+ 
+                                                
+                                            </div>
+                                            <div class="cookies__botones_und col-md-4">
+                                                <div class="onoffswitch switchC3">
+                                                    <input type="checkbox"  name="onoffswitch3" class="onoffswitch-checkbox " id="onoffswitch3" checked>
+                                                    <label class="onoffswitch-label" for="onoffswitch3">
+                                                        <span class="visually-hidden">Acepto las cookies de preferencia</span>
+                                                        <span class="onoffswitch-inner"></span>
+                                                        <span class="onoffswitch-switch"></span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- cookies publicitarias -->
+                                <div class="panel-heading">
+                                    <span class="panel-title headline-l-govco">
+                                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOneC4">Cookies publicitarias</a>
+                                    </span>
+                                </div>
+                                <div id="collapseOneC4" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                
+                                                <p>Estas cookies recopilan informaci&oacute;n sobre su comportamiento de navegaci&oacute;n para mostrar anuncios de su inter&eacute;s, revisamos cuando fue la &uacute;ltima vez que visito nuestro sitio web y que actividades realizo en el sitio web.</p>
+ 
+                                                
+                                            </div>
+                                            <div class="cookies__botones_und col-md-4">
+                                                <div class="onoffswitch switchC4">
+                                                    <input type="checkbox"  name="onoffswitch4" class="onoffswitch-checkbox " id="onoffswitch4" checked>
+                                                    <label class="onoffswitch-label" for="onoffswitch4">
+                                                        <span class="visually-hidden">Acepto las cookies de publicitaria</span>
+                                                        <span class="onoffswitch-inner"></span>
+                                                        <span class="onoffswitch-switch"></span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="modal-footer">
+                        <button class="btn btn-outline-primary cookies__boton cookies__boton--no-modal">Denegar</button>
+                        <button type="button" class="btn btn-primary cookies__boton cookies__boton--si-modal">Aceptar configuraci&oacute;n</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dataCookie" data-presentacion=""> </div>
+</div>
+<div class='bloqueZona3  tipoDisplay'><!-- BARRA ACCESIBILIDAD -->
+
+
+ 
+    <div class="id-gov-accessibility-11751 block block--gov-accessibility open_panel-accessibility" id="id-gov-accessibility-11751">
+            <!-- <div class="box-button_panel pd-top-lv1 pd-bottom-lv1" data-key="11751">
+                <span id="button_panel-11751"><i class="fa fa-chevron-right" aria-hidden="true"></i></span>
+            </div> -->
+            <div class="block-options navbar-expanded">
+                                    <button class="contrast-ref btnAccesibilidad__contraste_new" >
+                        <span class="iconnx-contrast-n" aria-hidden="true"></span>
+                        <span class="title-option"> Contraste </span>
+                    </button>
+                                                    <button class="contrast-ref btnAccesibilidad__texto" >
+                        <span class="iconnx-contrast-p" aria-hidden="true"></span>
+                        <span class="title-option"> Solo texto </span>
+                    </button>
+                                                    <button class="min-fontsize btnAccesibilidad__minFontSize" >
+                        <span class="iconnx-less-size" aria-hidden="true"></span>
+                        <span class="title-option align-middle"> Reducir letra </span>
+                    </button>
+                    <button class="max-fontsize btnAccesibilidad__maxFontSize" >
+                    <span class="iconnx-more-size" aria-hidden="true"></span>
+                        <span class="title-option align-middle"> Aumentar letra </span>
+                    </button>
+                                                    <a target="_blank" href="https://fenascol.org.co/centro-de-relevo/">
+                        <span class="iconnx-relief-n" aria-hidden="true"></span>
+                        <span class="title-option align-middle"> Centro de relevo </span>
+                    </a>
+                                                                                
+            </div>
+        </div>
+    
+
+        
+    
+
+
+
+<!-- BOTON SUBIR -->
+    <div class="scroll-to-top show-scrollTop">
+
+        <button id="btnTopPage" class="scroll-to-topButton">
+            <span class="iconnx-arrow-circle-up btn-access-up">
+            </span>
+            <span class="label-button-star-up"> Volver arriba </span>
+        </button>
+    </div>
+</div><div class="footer-block tabla1 tablaBloque12025 ">
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 footer-block_sede_principal">
+                    <h2 class="headline-l" >Gobernación del Huila</h2>
+                    <div class="footer-block_logo visible-sm visible-xs">
+                        <img class="img-responsive " src="/info/huila_bco/media/bloquefooder12025.png"   alt="Logo Gobernaci&oacute;n del Huila" title="Logo Gobernaci&oacute;n del Huila"    >
+                    </div>
+                                            <h3 class="headline-l title_sede">Sede principal</h3>
+                                        <p><span style="color:#000000">Direcci&oacute;n:&nbsp;</span>Carrera 4 Calle 8 Esquina, Neiva-Huila Colombia&nbsp;<strong>Cod&nbsp;Postal:</strong>&nbsp;410010<br />
+<span style="color:#000000">Horario de atenci&oacute;n al P&uacute;blico:</span>&nbsp;<br />
+Lunes a Jueves de 7:00 a.m a 11:45 a.m y de 2:00 p.m a 5.30 p.m<br />
+Viernes de 7:00 a.m a 11:30 a.m y de 2:00 p.m a 4:30 p.m<br />
+L&iacute;neas telef&oacute;nicas de atenci&oacute;n y orientaci&oacute;n a la ciudadan&iacute;a<br />
+<span style="color:#000000">Tel&eacute;fono conmutador:</span>&nbsp;(57 + 608) 8671300<br />
+<span style="color:#000000">L&iacute;nea Gratuita o de servicio a la ciudadan&iacute;a:&nbsp;</span>01 8000 968 716<br />
+<span style="color:#000000">L&iacute;nea Denuncias - Anticorrupci&oacute;n:</span>&nbsp;(57 + 608) 8671300 Ext 100<br />
+<span style="color:rgb(0, 0, 0)">Secretaria de salud:&nbsp;&nbsp;</span>Carrera 20N&deg; 5B-36 Barrio Calixto<br />
+<span style="color:#000000">Telefono Secretaria de salud:</span>&nbsp;(57 + 608) 8664700&nbsp;- 3165283483<br />
+<span style="color:#000000">Telefono CRUE (Secretaria de Salud):</span> 3134842757 - 3134842700 - 3134842717 - 3134842729<br />
+<span style="color:#000000">Tel&eacute;fono Delegaci&oacute;n del Huila en Bogot&aacute;</span>: (601) 3383195<br />
+<span style="color:#000000">Notificaciones Judiciales:&nbsp;</span><a href="https://www.huila.gov.co/publicaciones/9571/notificaciones-judiciales/"><span style="color:#006400">notificaciones.judiciales@huila.gov.co</span></a></p>
+
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 footer-block_logo visible-md visible-lg">
+                    <img class="img-responsive " src="/info/huila_bco/media/bloquefooder12025.png"   alt="Logo Gobernaci&oacute;n del Huila" title="Logo Gobernaci&oacute;n del Huila"  >
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 social_links">
+                                    <ul class="list-unstyle lista-enlaces">
+                                    
+                                                <li style="display: inline;">
+                            <a class="section fa fa-facebook-square" target="_blank" href="https://www.facebook.com/huilagob/?locale=es_LA" title="Facebook">
+                                <strong class="list_enlace_text"> Facebook</strong>
+                            </a>
+                        </li>
+                                                            
+                                                <li style="display: inline;">
+                            <a class="section fa fa-twitter-square" target="_blank" href="https://x.com/HuilaGob" title="Twitter">
+                                <strong class="list_enlace_text"> Twitter</strong>
+                            </a>
+                        </li>
+                                                            
+                                                <li style="display: inline;">
+                            <a class="section fa fa-instagram" target="_blank" href="https://www.instagram.com/gobernacionhuila/?hl=es" title="Instagram">
+                                <strong class="list_enlace_text"> Instagram</strong>
+                            </a>
+                        </li>
+                                                                    </ul>
+                                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer-block_sedes">
+                    <div class="contenido1">
+                        <div class="row">
+                                                    </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bloque_footer_enlaces text-left">
+
+                    <ul class="list-group list-group-horizontal">
+                         
+                            <li class="list-group-item">
+                                <a class="section" href="https://www.huila.gov.co/publicaciones/9535/pqrsfd/" target="_self">
+                                    Cont&aacute;ctenos - PQRS,
+                                </a>
+                            </li>
+                         
+                            <li class="list-group-item">
+                                <a class="section" href="https://www.huila.gov.co/17117" target="_self">
+                                    Pol&iacute;ticas,
+                                </a>
+                            </li>
+                         
+                            <li class="list-group-item">
+                                <a class="section" href="https://www.huila.gov.co/mapa-del-sitio" target="_self">
+                                    Mapa del Sitio
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copywrite">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <a href="https://www.gov.co/" title="Gobierno de Colombia" target="_blank">
+                        <img class="img-responsive logoGovCo gov" src="/mod/Bloques/img/logo-govco-footer-v2.svg" id="img-govco" alt="Gobierno de Colombia" title="Gobierno de Colombia">
+                    </a>
+                    <span class="separator"></span>
+                    <a href="https://www.colombia.co/" title="Marca Pa&iacute;s Colombia" target="_blank">
+                        <img class="img-responsive logoGovCo marca" src="/mod/Bloques/img/logo-colombia.svg" id="img-marcacol" alt="Marca Pa&iacute;s Colombia" title="Marca Pa&iacute;s Colombia">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- fin cache zona#3 (2026/09/15 09:08:10) -->
+    <section class="powered text-right">
+        <a href="http://nexura.com" target="blank" class="white-logo">Powered by Nexura</a>
+    </section>
+</footer>
+<script src="/info/huila_bco/web/portal/js/jquery_cookie.js"></script>
+<script src="/info/huila_bco/web/portal/js/functions.min.js"></script>            <script>
+                $(document).ready(function () {
+
+                    jQuery.validator.addMethod("email2", function (value, element) {
+                        // allow any non-whitespace characters as the host part
+                        return this.optional(element) || /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/.test(value);
+                    });
+
+                });
+            </script>
+            
+<script  src="https://www.huila.gov.co/media/plugins/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/default/js/global.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/vozme/vozme.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/sessionAlert/sessionAlert.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/slick/1.6.0/slick.min.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/jqueryValidate/1.12.0/src/localization/messages_es.js"></script>
+<script  src="https://www.huila.gov.co/media/plugins/calendar/jquery-timepicker/1.4.4/jquery-ui-timepicker-addon.min.js"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/BloqueEnlaces.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueCookieUser.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueFooter.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/slick-animation.min.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueDynamic.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/editableBlock.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueTabs2.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueAccesibilidad.js?nxcache=1765466292"></script>
+<script src="https://www.huila.gov.co/mod/Bloques/js/bloqueHeader.js?nxcache=1765466292"></script>
+
+</body>
+</html>
